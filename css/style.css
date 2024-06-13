@@ -39,7 +39,7 @@ body {
   cursor: pointer;
 }
 .wrapper header .nav button:hover {
-  transform: scale(0.9);
+  transform: scale(0.9) !important;
   background: rgb(102, 108, 163);
   box-shadow: 0 0 0 4px white, 0 0 0 8px #0c1327;
 }
